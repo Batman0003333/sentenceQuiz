@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Question } from "../types/question";
 import "./styles.css";
 
